@@ -5,7 +5,7 @@ ul{
     color: #021E5A;
 
 }
-ul>li{
+ul.my-list>li{
     list-style: armenian;
 
 }
